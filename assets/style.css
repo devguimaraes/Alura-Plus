@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap');
+
 :root {
+    --fonte-principal: 'Inter', sans-serif;
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
@@ -7,5 +10,27 @@
 }
 
 body {
+    font-family: var(--fonte-principal);
     background-color: var(--cor-de-fundo);
+}
+
+/* TODO ARQUIVOS DA SESSAO PRINCIPAL - REPASSAR PARA UM ARQUIVO A PARTE E FAZERT IMPORT */
+
+.container {
+    height: 100vh;
+}
+
+.principal {
+    background-image: url("./Background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 1.75rem;
+    line-height: 2.125rem;
+    text-align: center;
+
+    color: var(--branco-principal);
 }
