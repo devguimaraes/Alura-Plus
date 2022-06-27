@@ -29,3 +29,44 @@ body {
 }
 
 /* TODO exportar os arquivos abaixo para um novo arquivo e faer import no index */
+
+.rodape {
+    text-align: center;
+    margin: 8.75rem;
+    color: var(--cinza-secundario);
+}
+
+.rodape__lista {
+    display: flex;
+    justify-content: space-around;
+
+    list-style-type: none;
+    margin: 2.5rem;
+}
+
+.rodape__link a {
+    color: var(--branco-principal);
+    text-decoration: none;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 150%;
+}
+
+.rodape__link a:hover {
+    color: yellow;
+}
+
+.rodape__link a:active {
+    color: yellow;
+}
+
+
+
+.rodape__paragrafo {
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    font-size: 0.875rem;
+}
