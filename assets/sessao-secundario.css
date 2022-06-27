@@ -1,0 +1,30 @@
+.secundario {
+
+    align-items: center;
+    margin: 0 7.5rem 0 10.313rem;
+}
+
+.secundario__imagem {
+    width: 80%;
+}
+
+.container__titulo {
+    font-weight: 700;
+    font-style: normal;
+    font-size: 3rem;
+    line-height: 120%;
+    padding-bottom: 0.5rem;
+}
+
+.container__paragrafo {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 150%;
+    color: var(--cinza-secundario);
+}
+
+.container__botao--secundario {
+    margin-top: 1rem;
+    width: 10rem;
+}

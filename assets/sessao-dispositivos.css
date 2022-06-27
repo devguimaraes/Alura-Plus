@@ -1,0 +1,22 @@
+.dispositivos__titulo {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 120%;
+    text-align: center;
+}
+
+.dispositivo__lista {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    list-style-type: none;
+    margin: 5rem 0
+}
+
+.lista__item {
+
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 120%;
+}

@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap');
-@import url('./principal.css');
+@import url('./sessao-principal.css');
+@import url('./sessao-secundario.css');
+@import url('./sessao-dispositivos.css');
 
 :root {
     --fonte-principal: 'Inter', sans-serif;
@@ -26,38 +28,4 @@ body {
 
 }
 
-.container__caixa {
-    margin: 7.813rem 6rem;
-}
-
 /* TODO exportar os arquivos abaixo para um novo arquivo e faer import no index */
-.secundario {
-
-    align-items: center;
-    margin: 0 7.5rem 0 10.313rem;
-}
-
-.secundario__imagem {
-    width: 80%;
-}
-
-.container__titulo {
-    font-weight: 700;
-    font-style: normal;
-    font-size: 3rem;
-    line-height: 120%;
-    padding-bottom: 0.5rem;
-}
-
-.container__paragrafo {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 1rem;
-    line-height: 150%;
-    color: var(--cinza-secundario);
-}
-
-.container__botao--secundario {
-    margin-top: 1rem;
-    width: 10rem;
-}
