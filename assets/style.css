@@ -56,3 +56,8 @@ body {
     line-height: 150%;
     color: var(--cinza-secundario);
 }
+
+.container__botao--secundario {
+    margin-top: 1rem;
+    width: 10rem;
+}
