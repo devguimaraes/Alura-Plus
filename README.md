@@ -15,7 +15,7 @@
 <p align="center">O projeto doi desenvolvido com intuito de vender os cursos da Alura junto com o curso de inglês voltado para profissionais de TI, com isto em mente criamos um novo produto chamado Combo+.</p>
 <p align="center">O combo + tem algumas vantagens que foram descritas no site de forma intuitiva onde o usuário possa entender todos os beneficios de forma clara e objetiva. </p>
 <p align="center">O site do produto foi feito e pensando apenas em telas de notebooks e desktops, não sendo aplicado a responsividade.  </p>
-<p align="center">O tamanho de tela de melhor vizualiza o produto é em 1440x900px</p>
+<p align="center">O tamanho de tela que melhor vizualiza o produto é em 1440x900px</p>
 </font>
 <br>
 <h2 align="center"><font size="20px">🛠 Tecnologias</font></h2>
